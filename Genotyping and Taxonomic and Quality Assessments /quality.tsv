@@ -1,0 +1,2 @@
+genome_name    completeness    contamination    num_scaffolds    num_contigs    total_length    percent_gaps    scaffold_N50    contigs_N50    hmmsearch_version    bbtools_version    prodigal_version    busco_version
+SRR3215107    87.9%    0.0%    19    19    1624633    0.000%    295 KB    295 KB    3.1    39.06    2.6.3    5.6.1
